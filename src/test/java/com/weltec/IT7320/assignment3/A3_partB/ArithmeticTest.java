@@ -18,6 +18,7 @@ public class ArithmeticTest {
 	@Test
 	public final void test2() {
 		assertEquals(expect,actual);
+		assertEquals(expect,actual);
 	}
 	@Test
 	public final void test3() {
