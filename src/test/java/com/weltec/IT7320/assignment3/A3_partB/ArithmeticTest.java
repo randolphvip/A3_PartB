@@ -22,6 +22,7 @@ public class ArithmeticTest {
 	}
 	@Test
 	public final void test3() {
+		System.out.println("test333");
 		assertEquals(expect,actual);
 	}
 	@Test
